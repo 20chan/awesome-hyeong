@@ -1,4 +1,4 @@
-# 난해한 혀엉... 언어
+# 난해한 혀엉... 언어 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 xnuk님께서 만든 난해한 프로그래밍 언어. 언어 스펙은 [여기서](https://gist.github.com/xnuk/d9f883ede568d97caa158255e4b4d069) 확인 가능.
 
