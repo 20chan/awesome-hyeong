@@ -12,3 +12,4 @@ xnuk님께서 만든 난해한 프로그래밍 언어. 언어 스펙은 [여기�
 ## 그 외
 - [구문 해석 케이스 by xnuk](https://github.com/xnuk/hyeong-testcases)
 - [콰인 by queued37](https://github.com/queued37/hyeong-quine)
+- [Minify by tnRaro](https://github.com/tnRaro/hyeong-minify)
