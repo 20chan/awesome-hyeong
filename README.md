@@ -7,6 +7,7 @@ xnuk님께서 만든 난해한 프로그래밍 언어. 언어 스펙은 [여기�
 - [Elm 구현체 by xnuk](https://github.com/xnuk/elmhyeong)
 - [Python 구현체 by minacle](https://github.com/minacle/pyhyeong)
 - [Python 구현체 by phillyai](https://github.com/phillyai/hyeong-py)
+- [Rust 구현체 by buttercrab](https://github.com/buttercrab/hyeo-ung-lang)
 - [Rust 구현체 by VBChunguk](https://github.com/VBChunguk/hyeong-rs)
 
 ## 그 외
